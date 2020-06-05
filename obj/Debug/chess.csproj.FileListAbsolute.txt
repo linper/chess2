@@ -1,0 +1,54 @@
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess\bin\Debug\chess.exe.config
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess\bin\Debug\chess.exe
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess\bin\Debug\chess.pdb
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess\obj\Debug\chess.csprojAssemblyReference.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess\obj\Debug\chess.Form1.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess\obj\Debug\chess.Properties.Resources.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess\obj\Debug\chess.csproj.GenerateResource.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess\obj\Debug\chess.csproj.CoreCompileInputs.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess\obj\Debug\chess.exe
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess\obj\Debug\chess.pdb
+F:\chess\bin\Debug\chess.exe.config
+F:\chess\bin\Debug\chess.exe
+F:\chess\bin\Debug\chess.pdb
+F:\chess\obj\Debug\chess.csprojAssemblyReference.cache
+F:\chess\obj\Debug\chess.Form1.resources
+F:\chess\obj\Debug\chess.Properties.Resources.resources
+F:\chess\obj\Debug\chess.csproj.GenerateResource.cache
+F:\chess\obj\Debug\chess.csproj.CoreCompileInputs.cache
+F:\chess\obj\Debug\chess.exe
+F:\chess\obj\Debug\chess.pdb
+C:\Users\Valdas\Desktop\chess test\bin\Debug\chess.exe.config
+C:\Users\Valdas\Desktop\chess test\bin\Debug\chess.exe
+C:\Users\Valdas\Desktop\chess test\bin\Debug\chess.pdb
+C:\Users\Valdas\Desktop\chess test\obj\Debug\chess.csprojAssemblyReference.cache
+C:\Users\Valdas\Desktop\chess test\obj\Debug\chess.Form1.resources
+C:\Users\Valdas\Desktop\chess test\obj\Debug\chess.Properties.Resources.resources
+C:\Users\Valdas\Desktop\chess test\obj\Debug\chess.csproj.GenerateResource.cache
+C:\Users\Valdas\Desktop\chess test\obj\Debug\chess.csproj.CoreCompileInputs.cache
+C:\Users\Valdas\Desktop\chess test\obj\Debug\chess.exe
+C:\Users\Valdas\Desktop\chess test\obj\Debug\chess.pdb
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess test\bin\Debug\chess.exe.config
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess test\bin\Debug\chess.exe
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess test\bin\Debug\chess.pdb
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess test\obj\Debug\chess.csprojAssemblyReference.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess test\obj\Debug\chess.Form1.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess test\obj\Debug\chess.Properties.Resources.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess test\obj\Debug\chess.csproj.GenerateResource.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess test\obj\Debug\chess.csproj.CoreCompileInputs.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess test\obj\Debug\chess.exe
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess test\obj\Debug\chess.pdb
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess 2\bin\Debug\chess.exe.config
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess 2\bin\Debug\chess.exe
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess 2\bin\Debug\chess.pdb
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess 2\obj\Debug\chess.csprojAssemblyReference.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess 2\obj\Debug\chess.Form1.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess 2\obj\Debug\chess.Properties.Resources.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess 2\obj\Debug\chess.csproj.GenerateResource.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess 2\obj\Debug\chess.csproj.CoreCompileInputs.cache
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess 2\obj\Debug\chess.exe
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess 2\obj\Debug\chess.pdb
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess 2\obj\Debug\chess.Form2.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess 2\obj\Debug\chess.Form3.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess 2\obj\Debug\chess.Form4.resources
+C:\Users\Valdas\Desktop\Linas\Uni\IT\C#\Apps\Extra\chess 2\obj\Debug\chess.Form5.resources
